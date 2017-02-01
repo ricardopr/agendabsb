@@ -1,0 +1,38 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    max-width: 1280px;
+    align-content: center;
+    margin: auto;
+
+}
+
+
+.header {
+    background: url('/img/Header_Barral3.png') center no-repeat;
+    height: 179px;
+    width: 1280px;
+    color: #fff;
+}
+
+.header ul {
+    padding-left: 940px;
+    padding-top: 140px;
+}
+
+.header li {
+    font-size: 20px;
+    display: inline;
+    margin-right: 20px;
+}
+
+.menu li{
+    list-style: none;
+
+
+}
